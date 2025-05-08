@@ -1,6 +1,4 @@
-/* MemberCard.css */
 
-/* Animation for fade-in and scale effect */
 @keyframes fadeInAndScale {
   0% {
     opacity: 0;
@@ -76,7 +74,7 @@ body {
 }
 
 .card:hover .img-area {
-  transform: translate(-50%, -80px); /* Moves image straight up */
+  transform: translate(-50%, -80px);
 }
 
 
@@ -163,7 +161,7 @@ body {
   border-radius: 20px;
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
   text-align: center;
-  background-color: #000; /* black background */
+  background-color: #000; 
 
   font-family: 'Segoe UI', sans-serif;
   margin: 50px auto;
@@ -190,7 +188,7 @@ body {
 
 .role {
   font-size: 1.1rem;
-  color: #1e90ff; /* brighter blue */
+  color: #1e90ff;
   margin-bottom: 10px;
 }
 
